@@ -2,6 +2,7 @@ name: Bolt from the Blue Copywriting
 favicon: null
 layout_spectrum: 0.8779405488166958
 typography_spectrum: 0.4141851454041898
+title: Bolt from the Blue Copywriting
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6394460129085928
-  lightness: 0.5078528360463679
+    - '#ffffff'
+    - '#22e3f9'
+    - '#000000'
+    - '#979797'
+    - '#dbdbdb'
+  brandStrength: 0.75
+  lightness: 1
   saturation: 0.9937530916649848
-  rhythmicContrast: 0.8238136305008084
+  rhythmicContrast: 1
 purpose: []
