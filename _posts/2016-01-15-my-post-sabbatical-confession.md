@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:03:59.157Z'
-dateModified: '2016-01-15T18:03:42.536Z'
+datePublished: '2016-01-15T18:13:29.973Z'
+dateModified: '2016-01-15T18:13:26.234Z'
 title: My Post-Sabbatical Confession
 author: []
+sourcePath: _posts/2016-01-15-my-post-sabbatical-confession.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-my-post-sabbatical-confession.md
-published: true
 url: my-post-sabbatical-confession/index.html
 _type: Article
 
