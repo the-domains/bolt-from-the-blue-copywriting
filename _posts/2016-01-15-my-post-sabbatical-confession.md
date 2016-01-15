@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:13:29.973Z'
+datePublished: '2016-01-15T18:13:30.443Z'
 dateModified: '2016-01-15T18:13:26.234Z'
 title: My Post-Sabbatical Confession
 author: []
