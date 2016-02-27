@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T15:45:33.192Z'
-dateModified: '2016-02-27T15:44:23.964Z'
+datePublished: '2016-02-27T17:29:39.433Z'
+dateModified: '2016-02-27T17:29:21.859Z'
 title: '10 Post Ideas for When You Need a Blog Post Like, Yesterday'
 author: []
 sourcePath: _posts/2016-02-27-10-post-ideas-for-when-you-need-a-blog-post-like-yesterday.md
