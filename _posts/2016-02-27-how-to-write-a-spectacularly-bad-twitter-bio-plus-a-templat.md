@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T15:45:39.541Z'
-dateModified: '2016-02-27T15:44:38.570Z'
+datePublished: '2016-02-27T17:29:49.210Z'
+dateModified: '2016-02-27T17:29:38.465Z'
 title: How To Write a Spectacularly Bad Twitter Bio (Plus a Template for a Great One)
 author: []
 sourcePath: _posts/2016-02-27-how-to-write-a-spectacularly-bad-twitter-bio-plus-a-templat.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: how-to-write-a-spectacularly-bad-twitter-bio-plus-a-templat/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af3eeb12-2069-49a9-a7be-b6915687cc43.png)
