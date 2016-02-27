@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T15:34:59.509Z'
-dateModified: '2016-02-27T15:34:17.883Z'
+datePublished: '2016-02-27T15:41:23.642Z'
+dateModified: '2016-02-27T15:40:39.863Z'
 title: '10 Post Ideas for When You Need a Blog Post Like, Yesterday'
 author: []
+sourcePath: _posts/2016-02-27-10-post-ideas-for-when-you-need-a-blog-post-like-yesterday.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-27-10-post-ideas-for-when-you-need-a-blog-post-like-yesterday.md
-published: true
 url: 10-post-ideas-for-when-you-need-a-blog-post-like-yesterday/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a1238d-5108-4055-8bb1-43f9873318e1.jpg)
